@@ -11,7 +11,7 @@
         class="text-uppercase indigo--text"
       >
         <span class="font-weight-light">pos</span>
-        <span>awesome</span>
+        <span>Vapes Direct</span>
       </v-toolbar-title>
 
       <v-spacer></v-spacer>
@@ -147,7 +147,7 @@ export default {
       snack: false,
       snackColor: '',
       snackText: '',
-      company: 'POS Awesome',
+      company: 'POS Vapes Direct',
       company_img: '/assets/erpnext/images/erpnext-logo.svg',
       pos_profile: '',
       freeze: false,

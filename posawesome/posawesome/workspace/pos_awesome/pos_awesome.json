@@ -12,19 +12,19 @@
  "idx": 0,
  "is_default": 0,
  "is_standard": 1,
- "label": "POS Awesome",
+ "label": "POS Vapes Direct",
  "links": [],
  "modified": "2021-07-29 22:32:00.550981",
  "modified_by": "Administrator",
  "module": "POSAwesome",
- "name": "POS Awesome",
+ "name": "POS Vapes Direct",
  "onboarding": "",
  "owner": "Administrator",
  "pin_to_bottom": 0,
  "pin_to_top": 0,
  "shortcuts": [
   {
-   "label": "POS Awesome",
+   "label": "POS Vapes Direct",
    "link_to": "posapp",
    "type": "Page"
   },

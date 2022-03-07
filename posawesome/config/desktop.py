@@ -5,11 +5,11 @@ from frappe import _
 def get_data():
 	return [
 		{
-			"module_name": "POS Awesome",
+			"module_name": "POS Vapes Direct",
 			"category": "Modules",
 			"color": "grey",
 			"icon": "octicon octicon-file-directory",
 			"type": "module",
-			"label": _("POS Awesome")
+			"label": _("POS Vapes Direct")
 		}
 	]
